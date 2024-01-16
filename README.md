@@ -3,4 +3,4 @@ Projeto 02 trabalhado para o stage 02 da formação explorer da Rocketseat. O ex
 
 
 No navegador, pode-se visualizar o projeto da seguinte maneira:
-!(tela do projeto)[screenshott.png]
+![tela do projeto](screenshott.png)
